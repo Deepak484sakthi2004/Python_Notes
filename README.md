@@ -1,4 +1,4 @@
-Intro to Python
+intro to Python
 Data Types- 1
 Data Types- 2
 Decision Statement
